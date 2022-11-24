@@ -15,7 +15,7 @@ export default () => {
           </article>
           <aside className="aside">
             <article id="ultimas">
-            <h2 className="h2_main">Ultimas</h2>
+            <h2 className="h2_main">Ultimas:</h2>
             <Card01_aside />
             <Card02_aside />
             <Card03_aside />

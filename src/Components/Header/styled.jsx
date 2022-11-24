@@ -91,4 +91,32 @@ export const AreaHeader = styled.header`
 .politica, .ultimas, .eleicoes {
   text-decoration: none;
 }
+
+@media screen and (max-width: 479px){
+  .h1{
+  padding-top: 2.4rem;
+   padding-left: 1rem;
+   margin-right:0rem;
+    font-size: 2rem;
+    display:inline;
+    width:100%;
+    justify-content: center;
+ }
+  .IconesDireita{
+    
+  max-width: 0px;
+  margin-right:0rem;
+  }
+  .nomeMenu{
+  color:#1E4C9A;
+  padding: 0rem;
+  margin-right:0rem;
+}
+.menu{
+  width:3rem;
+  padding: 3rem 0rem;
+  }
+  
+
+}
 `;

@@ -1,0 +1,1 @@
+styled.js -> index.js/header -> app.js -> index.js = executar

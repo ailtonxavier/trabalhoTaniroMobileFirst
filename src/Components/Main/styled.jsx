@@ -11,7 +11,7 @@ export const AreaMain = styled.main`
     }
     .subcontainer {
         .card {
-        margin-top: 2rem;
+        margin-top: 1rem;
         width: 100%;
           .image {
             width: 100%;
@@ -71,7 +71,7 @@ export const AreaMain = styled.main`
 
   .container {
     
-
+   margin-top:3rem;
     
 
 
@@ -165,3 +165,5 @@ export const AreaMain = styled.main`
   
 
 `;
+
+
